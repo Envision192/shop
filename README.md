@@ -1,8 +1,5 @@
-#Installation
-    - php artisan storage:link
-    - php artisan migrate
+# Installation
 
+    - php artisan shop:install
 
-
-
-#Deploy
+# Deploy
